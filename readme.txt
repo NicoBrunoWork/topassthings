@@ -16,3 +16,5 @@
         '|U0001F609': unicode_a_emoji('\U0001F609'), #wink eye
         '|U0001F525': unicode_a_emoji('\U0001F525'), #fire
         '|U0001F440': unicode_a_emoji('\U0001F440') #eyes  
+
+https://stackoverflow.com/questions/48498929/what-is-file-like-object-what-is-file-pickle-load-and-pickle-loads
