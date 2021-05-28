@@ -1,4 +1,1 @@
-if discount_enabled == 'True':
-    discount_enabled = True
-else:
-    discount_enabled = False
+fury_melimarketinguseranalysis/data/users_sent_{today_date}_{site_id}_activation_trigger_ML.csv
